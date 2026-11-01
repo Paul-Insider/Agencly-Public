@@ -1,6 +1,8 @@
-# Explore the Property demos
+# Explore the current demos
 
-Two distinct residence identities share a common guest experience concept. Each demo can be opened directly in a browser.
+AGENCLY covers white-label applications across business sectors and a partner-agency model. The two public demos currently available are Property experiences: distinct residence identities sharing a common guest experience concept. Each can be opened directly in a browser.
+
+See the [platform overview](README.md) for the broader sector scope and [partner agencies](PARTNERS.md) for the white-label agency offering. Future sector demos will be added as they become available.
 
 ## MayaLuxHome
 
