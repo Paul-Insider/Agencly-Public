@@ -39,6 +39,12 @@ Rust and PostgreSQL form the target service foundation, with TypeScript and Reac
 
 The platform is in active development. Demo availability and production qualification are tracked separately.
 
+## Rights and legal information
+
+Copyright (c) 2026 Paul Insider. All rights reserved. The [LICENSE](LICENSE) permits personal or internal evaluation and testing of the public example; other uses require separate permission. This repository is publicly visible and is not released under an open-source licence.
+
+See the [legal information](legal/README.md), [brand notice](legal/TRADEMARKS.md) and [third-party notices](legal/THIRD_PARTY_NOTICES.md). Rights provided by applicable law and GitHub's applicable terms remain unaffected.
+
 ## Explore further
 
 [AGENCLY](https://agencly.com/) · [Paul Insider](https://paulinsider.com/) · [GitHub](https://github.com/Paul-Insider)

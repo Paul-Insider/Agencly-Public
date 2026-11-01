@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 publish = false
 description = "An independent Rust example of residence branding validation"
+license-file = "LICENSE"
 
 [lib]
 path = "src/lib.rs"
